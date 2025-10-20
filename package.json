@@ -1,0 +1,13 @@
+{
+  "name": "pachanditoken",
+  "version": "1.0.2",
+  "description": "A minimal JWT library in JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test/apt.test.js"
+  },
+  "keywords": ["jwt", "token", "authentication"],
+  "author": "Aryan Pachandi",
+  "license": "MIT"
+}
